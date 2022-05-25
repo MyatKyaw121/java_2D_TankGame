@@ -2,7 +2,6 @@
 
 Name: Myat Thu Kyaw
 
-Email: mkyaw@mail.sfsu.edu
 
 Extra Features:  
 
