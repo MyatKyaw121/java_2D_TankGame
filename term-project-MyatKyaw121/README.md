@@ -1,7 +1,4 @@
-# CSC 413 Term Project README
-
-Name: Myat Thu Kyaw
-
+# Java Tank Game
 
 Extra Features:  
 
